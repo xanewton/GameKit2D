@@ -1,7 +1,7 @@
 # Game Kit 2D
 
 
-![Scheme](/screenshots/ScreenShot2018-02-18at4.33.35PM.png)
+![Scheme](/screenshots/ScreenShot2018-02-21at3.45.35PM.png)
 
 
 Unity game in 2D.

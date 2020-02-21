@@ -18,7 +18,7 @@ This projecct is based on [Tutorial](https://unity3d.com/learn/tutorials/s/2d-ga
 
 ## License
 
-Copyright 2018 Angel Garcia
+Copyright 2018 Angel Newton
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
